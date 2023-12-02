@@ -1,0 +1,33 @@
+.navbar-links {
+  margin: 0px 20px;
+  color: #666;
+  font-size: 1.2rem;
+  margin-top: 3px;
+  transition: color 0.3s ease;
+}
+
+.navbar-links:hover {
+  cursor: pointer;
+  color: #387ed1;
+}
+
+.sign-up-button {
+  display: flex;
+  justify-content: center;
+  background-color: #387ed1;
+  color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0);
+  border-radius: 3px;
+  margin: 0px 850px;
+  margin-top: 0px;
+  font-size: 21px;
+  padding: 8px 0px;
+  margin-top: 55px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.sign-up-button:hover {
+  cursor: pointer;
+  background-color: black;
+}
